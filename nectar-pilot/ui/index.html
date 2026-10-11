@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Nectar Pilot</title>
+<meta name="description" content="Nectar Pilot — an automation cockpit for Bee Swarm Simulator. Designed by Horalix." />
+<link rel="stylesheet" href="fonts.css" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div class="desk">
+  <div class="app" id="app" data-run="idle">
+
+    <div class="titlebar">
+      <div class="wordmark">
+        <svg class="mark" viewBox="0 0 24 34" aria-hidden="true">
+          <g fill="currentColor">
+            <path class="cell" d="M12 .2 17.72 3.5v6.6L12 13.4 6.28 10.1V3.5z"/>
+            <path class="cell" opacity=".72" d="M6.28 10.1 12 13.4V20L6.28 23.3.56 20v-6.6z" transform="translate(0 -3.3)"/>
+            <path class="cell" opacity=".72" d="M17.72 10.1 23.44 13.4V20l-5.72 3.3L12 20v-6.6z" transform="translate(0 -3.3)"/>
+            <path class="cell" opacity=".4" d="M12 20.1l5.72 3.3v6.6L12 33.3l-5.72-3.3v-6.6z"/>
+          </g>
+        </svg>
+        <span class="name">Nectar<em>Pilot</em></span>
+      </div>
+      <span class="build mono" id="buildTag">v1.0</span>
+      <div class="spacer"></div>
+      <div class="clock">
+        <span class="lamp" id="tbLamp"></span>
+        <span id="tbState">Idle</span>
+        <span class="sep">/</span>
+        <span id="tbClock">00:00:00</span>
+      </div>
+      <div class="wincontrols">
+        <button class="pin" id="btnPin" title="Keep window on top" aria-label="Keep window on top"></button>
+        <button data-noop title="Minimize" aria-label="Minimize"></button>
+        <button data-noop title="Maximize" aria-label="Maximize"></button>
+        <button class="close" data-noop title="Close" aria-label="Close"></button>
+      </div>
+    </div>
+
+    <nav class="rail" id="rail" aria-label="Sections"></nav>
+
+    <main class="surface">
+      <header class="screenhead" id="screenhead"></header>
+      <div class="screenbody" id="screenbody" tabindex="-1"></div>
+    </main>
+
+    <div class="dock" id="dock"></div>
+
+    <div class="toasts" id="toasts" aria-live="polite"></div>
+    <div id="modalhost"></div>
+  </div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

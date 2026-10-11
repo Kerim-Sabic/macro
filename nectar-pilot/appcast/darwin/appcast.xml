@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Nectar Pilot Updates</title>
+    <link>https://github.com/nosyliam/revolution-macro/releases/latest</link>
+    <description>AppCast for Nectar Pilot (macOS)</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.9b-hotfix3</title>
+      <sparkle:version>0.9b-hotfix3</sparkle:version>
+      <pubDate>Thu, 19 Feb 2026 21:54:42 GMT</pubDate>
+      <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.9b-hotfix3/RevolutionMacro-0.9b-hotfix3.dmg" length="47582156" type="application/octet-stream" sparkle:edSignature="4bbd/8+2frc3c9BZl0x8u0JEqpPq+fkFac1SvDFJRB03vdmNCecYu1WUrBM+lChT5LpgoS/FbZK5CwvJ7v+RBQ=="/>
+      <description><![CDATA[<ul>
+<li>Various bugfixes and improvements</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Version 0.9b-hotfix4</title>
+      <sparkle:version>90204</sparkle:version>
+      <pubDate>Sat, 21 Feb 2026 01:14:12 GMT</pubDate>
+      <enclosure url="https://github.com/nosyliam/revolution-macro/releases/download/v0.9b-hotfix4/RevolutionMacro.dmg" length="47522790" type="application/octet-stream" sparkle:edSignature="HFVmI0m6U+rSg/M1+HC3gHiPuvagFWNXOlsBcbO+JFXHj4Pvw6Zi0+GwNIbbuEiWjUaL4StMd4DFQKIEquL9CQ=="/>
+      <description><![CDATA[<ul>
+<li>Reworked the planter scheduling system</li>
+<li>Added an option to buy ant passes</li>
+<li>Added new routing options</li>
+<li>Fixed numerous quest detection bugs</li>
+<li>Tons of bugfixes and optimizations</li>
+</ul>
+]]></description>
+      <sparkle:shortVersionString>0.9b-hotfix4</sparkle:shortVersionString>
+    </item>
+    <item>
+      <title>Version 0.9b-hotfix5</title>
+      <sparkle:version>90205</sparkle:version>
+      <sparkle:shortVersionString>0.9b-hotfix5</sparkle:shortVersionString>
+      <pubDate>Tue, 10 Mar 2026 01:42:34 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/darwin/0.9b-hotfix5/RevolutionMacro.dmg" length="46123155" type="application/octet-stream" sparkle:edSignature="fmqVVyZV/3CxKX78obT++03OwqBibfqNCCcVroahlr9mSvwppo8+azrYeG83KlEz77mKRdiCt2i1NZxt1McfBA=="/>
+      <description><![CDATA[<ul>
+<li>Added Auto Field Boost</li>
+<li>Added a new revamped Auto Jelly</li>
+<li>Improved AI compatability and performance</li>
+<li>Added CUDA support for AI models</li>
+<li>Added an overlay for AI token detection</li>
+<li>Fixed issues with hourly reports</li>
+<li>Various bugfixes and improvements</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Version 0.9c</title>
+      <sparkle:version>90300</sparkle:version>
+      <sparkle:shortVersionString>0.9c</sparkle:shortVersionString>
+      <pubDate>Fri, 03 Apr 2026 23:43:50 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/darwin/0.9c/RevolutionMacro.dmg" length="48467620" type="application/octet-stream" sparkle:edSignature="S80Rf3MqQv5UXXi6rP+LT8nf9wLokDzNgjxQoi9g0JvKTIiPsMzVt5JLMOTCytIZ2ZCqhkZ4C64Zc3Zk6yCEAA=="/>
+      <description><![CDATA[<ul>
+<li>Added Memory Match</li>
+<li>Added Wind Shrine</li>
+<li>Added AI Loot Collection</li>
+<li>Added Spotlight Search</li>
+<li>Improved AI Gather</li>
+<li>Improved Mondo Hop</li>
+<li>Various bugfixes</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Version 0.9c-hotfix1</title>
+      <sparkle:version>90301</sparkle:version>
+      <sparkle:shortVersionString>0.9c-hotfix1</sparkle:shortVersionString>
+      <pubDate>Fri, 24 Apr 2026 17:56:28 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/darwin/0.9c-hotfix1/RevolutionMacro.dmg" length="50139411" type="application/octet-stream" sparkle:edSignature="Wkd1M98JbVt6SzJKzrS86ko2CxmLqQQEkeQEtvtF6EMESCmljN6DmzC6NDquM7qsKuKtPH5cJfoY19ScaqgEDQ=="/>
+      <description><![CDATA[<ul>
+<li>Added Item Reports</li>
+<li>Improved Vic Hop</li>
+<li>Optimized macro performance</li>
+<li>Various bugfixes</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Version 0.9c-hotfix2</title>
+      <sparkle:version>90302</sparkle:version>
+      <sparkle:shortVersionString>0.9c-hotfix2</sparkle:shortVersionString>
+      <pubDate>Sun, 26 Apr 2026 18:36:33 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/darwin/0.9c-hotfix2/RevolutionMacro.dmg" length="50366279" type="application/octet-stream" sparkle:edSignature="Q+lW4L7fDm4zjwcOZFVVA+08IEHfmUSF6vY2SwtKLMM9dScm7SaBEkxi3H93YYbH6GWn4nPc4EqyDaLgJj6LCQ=="/>
+      <description><![CDATA[<ul>
+<li>Fixed a crash on MacOS</li>
+<li>Fixed a bug with Vicious battle detection</li>
+<li>Fixed a bug with quest detection</li>
+</ul>
+]]></description>
+    </item>
+    <item>
+      <title>Version 0.9c-hotfix3</title>
+      <sparkle:version>90303</sparkle:version>
+      <sparkle:shortVersionString>0.9c-hotfix3</sparkle:shortVersionString>
+      <pubDate>Sun, 26 Apr 2026 21:00:03 GMT</pubDate>
+      <enclosure url="https://cdn.revolutionmacro.com/releases/darwin/0.9c-hotfix3/RevolutionMacro.dmg" length="50371923" type="application/octet-stream" sparkle:edSignature="kstb5n8fVRY9dTab7/S5B9mSGT40QQF4M7MrIbSntWmVmBnltXaQbfJRkI20kY59wzS8QO0I+QgGmDDabn18DQ=="/>
+      <description><![CDATA[<ul>
+<li>Fixed a start-up crash</li>
+</ul>
+]]></description>
+    </item>
+  </channel>
+</rss>
